@@ -8,10 +8,15 @@ This project focuses on predicting whether a person is likely to have liver dise
 🔍 What This Project Does
 
 ✔ Loads and analyzes the dataset
+
 ✔ Handles missing values
+
 ✔ Converts categorical data (like Gender) into numbers
+
 ✔ Visualizes important patterns in the dataset
+
 ✔ Trains a machine-learning model using Decision Trees
+
 ✔ Evaluates model performance using:
 1.Accuracy Score
 2.Confusion Matrix
